@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554465985 source:/home/share/Public/git-project/Advance-Programing-in-the-Unix-Environment/chapter4/4-1-print-file-type/file_type.c
+	<sys/types.h>
+	<sys/stat.h>
+	"apue.h"
+	"standard_error.h"
+

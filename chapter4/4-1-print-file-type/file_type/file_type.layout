@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="../../../include/standard_error.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="980" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="15" />
+			<Collapse line="21" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="41" />
+			<Collapse line="47" />
+			<Collapse line="54" />
+			<Collapse line="60" />
+			<Collapse line="68" />
+			<Collapse line="73" />
+			<Collapse line="82" />
+			<Collapse line="87" />
+			<Collapse line="94" />
+			<Collapse line="99" />
+			<Collapse line="107" />
+			<Collapse line="111" />
+		</Folding>
+	</File>
+	<File name="../../../include/apue.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4631" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="../file_type.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="335" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="37" />
+			<Collapse line="43" />
+			<Collapse line="47" />
+			<Collapse line="51" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="62" />
+			<Collapse line="64" />
+			<Collapse line="69" />
+			<Collapse line="71" />
+			<Collapse line="76" />
+		</Folding>
+	</File>
+	<File name="../../../include/log_error.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2727" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="16" />
+			<Collapse line="22" />
+			<Collapse line="26" />
+			<Collapse line="32" />
+			<Collapse line="37" />
+			<Collapse line="44" />
+			<Collapse line="49" />
+			<Collapse line="57" />
+			<Collapse line="61" />
+			<Collapse line="68" />
+			<Collapse line="73" />
+			<Collapse line="81" />
+			<Collapse line="87" />
+			<Collapse line="95" />
+			<Collapse line="100" />
+			<Collapse line="107" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

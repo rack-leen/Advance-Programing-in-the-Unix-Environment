@@ -1,0 +1,4 @@
+enter any character
+stream = stdin, 全缓存, buffer size = 0
+stream = stdout, 全缓存, buffer size = 1
+stream = stderr, 无缓存, buffer size = 2
